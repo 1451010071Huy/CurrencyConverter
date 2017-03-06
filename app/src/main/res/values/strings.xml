@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="plt_dollars">US Dollars</string>
+    <string name="plt_vnds">VNDs</string>
+    <string name="btn_clear">CLEAR</string>
+    <string name="btn_converter">CONVERT</string>
+    <string name="edt_enter_dollar_amount">Enter dollar amount</string>
+</resources>
